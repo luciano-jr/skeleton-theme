@@ -1,0 +1,44 @@
+{
+  "name": "skeleton-theme",
+  "authors": [
+    "luciano <luciano.junior@prontopr.com>"
+  ],
+  "description": "VirtoCommerce2 Theme template",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "Theme",
+    "VirtoCommerce",
+    "Virto"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.1",
+    "modernizr": "~3.3.1",
+    "hammerjs": "~2.0.6",
+    "sequencejs": "~2.1.0",
+    "underscore": "~1.8.3",
+    "angular": "angularjs#~1.5.0",
+    "font-awesome": "~4.5.0",
+    "ideal-image-slider": "~1.5.1",
+    "angular-route": "~1.5.0"
+  },
+  "resolutions": {
+    "hammerjs": "~2.0.6"
+  }
+}
